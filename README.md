@@ -13,16 +13,6 @@ Passionate about Python, Java, and Cloud Solutions
 
 ---
 
-## 🧪 Azure DevOps Coverage Badge (Coming Soon)
-![Azure DevOps coverage](https://img.shields.io/badge/Azure--DevOps-Coming%20Soon-lightgrey?logo=azuredevops)
-
-<!--
-To enable actual badge, replace with:
-https://img.shields.io/azure-devops/coverage/YOUR_ORG/YOUR_PROJECT/YOUR_DEFINITION_ID.svg
--->
-
----
-
 ## 🛠️ Languages & Tools
 
 | Language | Tools & Frameworks |
