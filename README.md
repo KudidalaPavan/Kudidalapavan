@@ -1,9 +1,12 @@
 # Hello, I’m Pavan Kalyan Kudidala 👋
 
-🎓 Master’s Student in Computer Science at University of North Texas <img src="https://s3-eu-west-1.amazonaws.com/assets.in-part.com/universities/309/2xggVBWOTma3ZBDf8PkN_unt-logo-university-of-north-texas.png" alt="University of North Texas Logo" width="700"/>
+🎓 Master’s Student in Computer Science at University of North Texas  
+<img src="https://s3-eu-west-1.amazonaws.com/assets.in-part.com/universities/309/2xggVBWOTma3ZBDf8PkN_unt-logo-university-of-north-texas.png" alt="UNT Logo" width="120" style="vertical-align: middle; margin-left: 10px;" />
+
 💼 Former IT Analyst at Amazon | Passionate about Python, Java, and Cloud Solutions  
 📍 Irving, Texas, United States  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/)) | Kpkudidala@gmail.com  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/) | Kpkudidala@gmail.com  
+
 
 ---
 
