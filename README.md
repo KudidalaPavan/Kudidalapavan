@@ -3,7 +3,9 @@
 🎓 Master’s Student in Computer Science at University of North Texas <img src="https://s3-eu-west-1.amazonaws.com/assets.in-part.com/universities/309/2xggVBWOTma3ZBDf8PkN_unt-logo-university-of-north-texas.png" alt="UNT Logo" width="35" style="vertical-align: middle;"/>
 
 
-💼 Former IT Analyst at Amazon | Passionate about Python, Java, and Cloud Solutions  
+💼 Former IT Analyst at Amazon 
+
+Passionate about Python, Java, and Cloud Solutions  
 📍 Irving, Texas, United States  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/) | Kpkudidala@gmail.com  
 
