@@ -27,7 +27,6 @@ Passionate about Python, Java, and Cloud Solutions
 ## ⚡ GitHub Stats
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kudidalapavan&show_icons=true&theme=dark)
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kudidalapavan&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kudidalapavan&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudidalapavan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kudidalapavan&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
