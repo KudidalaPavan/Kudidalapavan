@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">🙏🏻 नमस्ते (Namaste), I’m Pavan Kalyan Kudidala 👋</h3>
+<h3 align="center">Hello, I’m Pavan Kalyan Kudidala 👋</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/">
