@@ -1,6 +1,7 @@
-# 🙏🏻 Namaste, I’m Pavan Kalyan Kudidala 👋
+# Hello, I’m Pavan Kalyan Kudidala 👋
 
-🎓 Master’s Student in Computer Science at University of North Texas (UNT)  
+🎓 Master’s Student in Computer Science at University of North Texas (<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/University_of_North_Texas_wordmark.svg/320px-University_of_North_Texas_wordmark.svg.png" alt="UNT Logo" width="180"/>
+)  
 💼 Former IT Analyst at Amazon | Passionate about Python, Java, and Cloud Solutions  
 📍 Irving, Texas, United States  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/)) | Kpkudidala@gmail.com  
