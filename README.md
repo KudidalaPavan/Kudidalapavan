@@ -18,7 +18,7 @@
 ---
 
 - 🌐 Portfolio: Coming Soon!
-- 💬 Ask me anything — happy to help 😄
+- 
 - 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/)
 
 ---
