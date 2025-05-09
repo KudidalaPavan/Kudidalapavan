@@ -1,6 +1,6 @@
 # Hello, I’m Pavan Kalyan Kudidala 👋
-
-🎓 Master’s Student in Computer Science at University of North Texas <img src="https://s3-eu-west-1.amazonaws.com/assets.in-part.com/universities/309/2xggVBWOTma3ZBDf8PkN_unt-logo-university-of-north-texas.png" alt="UNT Logo" width="50" style="vertical-align: middle;"/>
+🎓 Master’s Student in Computer Science at University of North Texas 
+                                                                     <img src="https://s3-eu-west-1.amazonaws.com/assets.in-part.com/universities/309/2xggVBWOTma3ZBDf8PkN_unt-logo-university-of-north-texas.png" alt="UNT Logo" width="50" style="vertical-align: middle;"/>
 
 
 💼 Former IT Analyst at Amazon <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="60" style="vertical-align: middle;"/>
