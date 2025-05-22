@@ -42,7 +42,6 @@
 
 ## ❤️ Things I Love:
 
-- 🐍 Python
 - ✍️ Backend Development
 - 📈 Solving Problems with Code
 - ☁️ Cloud Automation
