@@ -11,15 +11,11 @@
     <img src="https://img.shields.io/badge/-KudidalaPavan-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:Kpkudidala@gmail.com">
-    <img src="https://img.shields.io/badge/-Kpkudidala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-kudidalapavankalyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-- 🌐 Portfolio: Coming Soon!
-- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/)
-
 ---
 
 ## 🛠️ Languages and Tools:
