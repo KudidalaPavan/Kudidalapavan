@@ -4,14 +4,14 @@
   </a>
 </p>
 
-<h3 align="center">Hello, I’m Pavan Kalyan Kudidala 👋</h3>
+<h3 align="center">Hello, I’m Pavan Kalyan 👋</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/">
     <img src="https://img.shields.io/badge/-KudidalaPavan-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Kpkudidala@gmail.com">
-    <img src="https://img.shields.io/badge/-kudidalapavankalyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  <a href="mailto:pavan.kalyanit@yahoo.com">
+    <img src="https://img.shields.io/badge/-pavan.kalyanit@yahoo.com-c14438?style=flat-square&logo=yahoo&logoColor=white" />
   </a>
 </p>
 
