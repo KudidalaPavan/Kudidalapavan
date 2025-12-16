@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan-kalyan-kudidala-250031257/">
-    <img src="https://img.shields.io/badge/-KudidalaPavan-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/- Pavan Kalyan -blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:pavan.kalyanit@yahoo.com">
     <img src="https://img.shields.io/badge/-pavan.kalyanit@yahoo.com-c14438?style=flat-square&logo=yahoo&logoColor=white" />
